@@ -3,15 +3,18 @@ project(unsplash-wallpapers)
 
 set(BACKGROUNDS
 	default.jpg
-	wallpaper-1.jpg
-	wallpaper-2.jpg
-	wallpaper-3.jpg
-	wallpaper-4.jpg
-	wallpaper-5.jpg
-	wallpaper-6.jpg
-	wallpaper-7.jpg
-	wallpaper-8.jpg
-	wallpaper-9.jpg
+	misaka-1920x1080.png
+	misaka-2560x1440.png
+	cutefish-0.jpg
+	cutefish-1.jpg
+	cutefish-2.jpg
+	cutefish-3.jpg
+	cutefish-4.jpg
+	cutefish-5.jpg
+	cutefish-6.jpg
+	cutefish-7.jpg
+	cutefish-8.jpg
+	cutefish-9.jpg
 )
 
 install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/cutefishos)
