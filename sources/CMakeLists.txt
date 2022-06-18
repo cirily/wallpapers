@@ -5,6 +5,10 @@ set(BACKGROUNDS
 	default.jpg
 	misaka-1920x1080.png
 	misaka-2560x1440.png
+	misaka-3840x2160.png
+	misaka-dark-1920x1080.png
+	misaka-dark-2560x1440.png
+	misaka-dark-3840x2160.png
 	cutefish-0.jpg
 	cutefish-1.jpg
 	cutefish-2.jpg
