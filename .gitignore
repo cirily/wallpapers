@@ -95,8 +95,11 @@ build/
 
 
 # Debian package build
-debian/.debhelper/
+debian/*.debhelper
 debian/files
-debian/piscesys-wallpapers.debhelper.log
-debian/piscesys-wallpapers.substvars
-debian/piscesys-wallpapers/
+debian/piscesys-wallpapers
+debian/*.changes
+debian/*.buildinfo
+debian/*.substvars
+debian/*.log
+obj-x86_64-linux-gnu/
