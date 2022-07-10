@@ -1,5 +1,5 @@
-piscesys-wallpapers (0.1.2) misaka; urgency=low
+piscesys-wallpapers (0.9) misaka; urgency=medium
 
-  * Misaka: light wallpaper's text removed
+  * Initial Release for Pisces.
 
- -- Tsukuyomi Toki <huangzimocp@126.com>  Sun, 19 Jun 2022 13:59:59 +0800
+ -- Piscesys Packaging Team <support@piscesys.com> Sun, 10 Jul 2022 15:15:15 +0800

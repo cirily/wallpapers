@@ -1,7 +1,7 @@
 Source: piscesys-wallpapers
 Section: devel
 Priority: optional
-Maintainer: Cirily Piscesys Team <support@cirily.com>
+Maintainer: Piscesys Packaging Team <support@piscesys.com>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules
